@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "vuepress": "^1.9.7",
     "vuepress-plugin-cursor-effects": "^1.1.6",
     "vuepress-plugin-sakura": "^1.2.1",
